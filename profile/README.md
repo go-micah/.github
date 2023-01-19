@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I'm learning [Go](https://go.dev)!
+I'm gonna learn [Go](https://go.dev)!
