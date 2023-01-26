@@ -14,7 +14,6 @@ I'm gonna learn [Go](https://go.dev)!
 ## Open Source Go Projects
 
 - [go-iiif](https://github.com/go-iiif/go-iiif)
-- [prebid-server](https://github.com/prebid/prebid-server)
 
 ## Resources
 
