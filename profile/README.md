@@ -5,6 +5,7 @@ I'm gonna learn [Go](https://go.dev)!
 ## My Blog Posts
 
 - [I'm gonna learn Go](https://www.micahwalter.com/im-gonna-learn-go/)
+- [Getting going with Go](https://www.micahwalter.com/getting-going-with-go/)
 
 ## My Repositories
 
