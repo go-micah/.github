@@ -11,6 +11,10 @@ I'm gonna learn [Go](https://go.dev)!
 - [hello](https://github.com/go-micah/hello)
 - [hello-lambda](https://github.com/go-micah/hello-lambda)
 
+## Code Snippets
+
+- [FizzBuzz](https://goplay.tools/snippet/Kcd9slXvlLy)
+
 ## Open Source Go Projects
 
 - [go-iiif](https://github.com/go-iiif/go-iiif)
