@@ -11,6 +11,9 @@ I'm gonna learn [Go](https://go.dev)!
 
 - [hello](https://github.com/go-micah/hello)
 - [hello-lambda](https://github.com/go-micah/hello-lambda)
+- [fizzbuzz](https://github.com/go-micah/fizzbuzz) - Solve your FizzBuzz challenge in Go
+- [imaging](https://github.com/go-micah/imaging) - A little image processing package for Go
+- [cleveland](https://github.com/go-micah/cleveland) - Talk to Cleveland Museum of Art from Go
 
 ## Code Snippets
 
