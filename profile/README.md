@@ -22,6 +22,7 @@ I'm gonna learn [Go](https://go.dev)!
 ## Open Source Go Projects
 
 - [go-iiif](https://github.com/go-iiif/go-iiif)
+- [WriteFreely](https://github.com/writefreely/writefreely)
 
 ## Resources
 
