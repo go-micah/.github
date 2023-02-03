@@ -23,6 +23,7 @@ I'm gonna learn [Go](https://go.dev)!
 
 - [go-iiif](https://github.com/go-iiif/go-iiif)
 - [WriteFreely](https://github.com/writefreely/writefreely)
+- [AWS SDK for Go](https://pkg.go.dev/github.com/aws/aws-sdk-go)
 
 ## Resources
 
