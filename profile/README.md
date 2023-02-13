@@ -6,7 +6,7 @@ I'm gonna learn [Go](https://go.dev)!
 
 - [I'm gonna learn Go](https://www.micahwalter.com/im-gonna-learn-go/)
 - [Getting going with Go](https://www.micahwalter.com/getting-going-with-go/)
-- [Go Packages, Do Docs, and the Distance Function](https://www.micahwalter.com/go-packages-go-docs-and-the-distance-image/)
+- [Go Packages, Do Docs, and the Distance Image](https://www.micahwalter.com/go-packages-go-docs-and-the-distance-image/)
 
 ## My Repositories
 
