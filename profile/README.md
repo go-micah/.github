@@ -7,6 +7,7 @@ I'm gonna learn [Go](https://go.dev)!
 - [I'm gonna learn Go](https://www.micahwalter.com/im-gonna-learn-go/)
 - [Getting going with Go](https://www.micahwalter.com/getting-going-with-go/)
 - [Go Packages, Do Docs, and the Distance Image](https://www.micahwalter.com/go-packages-go-docs-and-the-distance-image/)
+- [Running Go Programs on AWS App Runner](https://www.micahwalter.com/running-go-programs-on-aws-app-runner/)
 
 ## My Repositories
 
