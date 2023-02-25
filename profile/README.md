@@ -34,4 +34,5 @@ I'm gonna learn [Go](https://go.dev)!
 - [Better Go Playground](https://goplay.tools)
 - [Go Cloud](https://github.com/google/go-cloud)
 - [Go on AWS](https://aws.amazon.com/developer/language/go/)
+- [Go Documentary](https://github.com/golang-design/history)
 
