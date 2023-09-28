@@ -30,6 +30,7 @@ I'm gonna learn [Go](https://go.dev)!
 
 - [AWS SDK v2 for Go](https://pkg.go.dev/github.com/aws/aws-sdk-go-v2)
 - [AWS Lambda for Go](https://pkg.go.dev/github.com/aws/aws-lambda-go)
+- [AWS CDK Bindings for Go](https://github.com/aws/aws-cdk-go)
 
 
 ## Resources
