@@ -25,7 +25,12 @@ I'm gonna learn [Go](https://go.dev)!
 
 - [go-iiif](https://github.com/go-iiif/go-iiif)
 - [WriteFreely](https://github.com/writefreely/writefreely)
-- [AWS SDK for Go](https://pkg.go.dev/github.com/aws/aws-sdk-go)
+
+## AWS Things
+
+- [AWS SDK v2 for Go](https://pkg.go.dev/github.com/aws/aws-sdk-go-v2)
+- [AWS Lambda for Go](https://pkg.go.dev/github.com/aws/aws-lambda-go)
+
 
 ## Resources
 
