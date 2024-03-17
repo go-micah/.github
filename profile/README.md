@@ -15,7 +15,10 @@ I'm gonna learn [Go](https://go.dev)!
 - [hello-lambda](https://github.com/go-micah/hello-lambda)
 - [fizzbuzz](https://github.com/go-micah/fizzbuzz) - Solve your FizzBuzz challenge in Go
 - [imaging](https://github.com/go-micah/imaging) - A little image processing package for Go
-- [cleveland](https://github.com/go-micah/cleveland) - Talk to Cleveland Museum of Art from Go
+- [cleveland](https://github.com/go-micah/clevelandart) - Talk to Cleveland Museum of Art from Go
+- [go-bedrock](https://github.com/go-micah/go-bedrock) - Types and wrapper code for Amazon Bedrock
+- [chat-cli](https://github.com/go-micah/chat-cli) - A little terminal program powered by Amazon Bedrock
+- [go-generate-poems](https://github.com/go-micah/go-generate-poems) - Generates poems with Amazon Bedrock inspired by art!
 
 ## Code Snippets
 
