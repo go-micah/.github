@@ -26,6 +26,7 @@ I'm gonna learn [Go](https://go.dev)!
 - [imaging-api](https://github.com/go-micah/imaging-api) - An API that uses my little imaging package
 
 ### AI & Amazon Bedrock
+- [chat-cli](https://github.com/chat-cli/chat-cli) - A terminal based program that lets you interact with LLMs available on Amazon Bedrock
 - [go-bedrock](https://github.com/go-micah/go-bedrock) - Provider specific structs for the Amazon Bedrock API written in Go
 - [chat-demo](https://github.com/go-micah/chat-demo) - Examples and demos for building up a CLI for chatting with Amazon Bedrock
 - [chat-tty](https://github.com/go-micah/chat-tty) - Example of an interactive chat interface
